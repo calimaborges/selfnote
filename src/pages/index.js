@@ -40,7 +40,7 @@ export default function Index() {
 
   return (
     <div className={container}>
-      <h1 className="text-xl">📋 selfnote</h1>
+      <h1 className="text-xl">📋 Selfnote</h1>
       <form className="mt-6 flex flex-col flex-grow" onSubmit={handleSubmit}>
         <textarea
           autoFocus
